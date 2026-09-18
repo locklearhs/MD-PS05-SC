@@ -421,10 +421,10 @@ Take a look at data for Maine (row 2 of `hate_crimes`). Did the model (`job_med_
 ::: {.callout-important icon="false" collapse="false" title="Problem 22 Answers"}
 ```{r}
 # Type your code and comments inside the code chunk
-get_regression_points(job_med_mod)[2,5]
+The model underpredicted because the residual is positive.
 ```
 
-The model underpredicted because the residual is positive.
+-   Delete this and put your text answer here.
 :::
 
 # **EXTRA**
@@ -472,3 +472,4 @@ There are many statistics classes and students using the Server. To keep the ser
 ```{r}
 sessionInfo()
 ```
+
